@@ -1,0 +1,602 @@
+County,Crime type,Count
+2023-01-avon-and-somerset-street,Violence and sexual offences,4737
+2023-01-avon-and-somerset-street,Anti-social behaviour,1511
+2023-01-avon-and-somerset-street,Public order,1239
+2023-01-avon-and-somerset-street,Criminal damage and arson,1047
+2023-01-avon-and-somerset-street,Shoplifting,992
+2023-01-avon-and-somerset-street,Other theft,875
+2023-01-avon-and-somerset-street,Vehicle crime,710
+2023-01-avon-and-somerset-street,Burglary,603
+2023-01-avon-and-somerset-street,Other crime,238
+2023-01-avon-and-somerset-street,Drugs,211
+2023-01-avon-and-somerset-street,Bicycle theft,149
+2023-01-avon-and-somerset-street,Robbery,124
+2023-01-avon-and-somerset-street,Theft from the person,70
+2023-01-avon-and-somerset-street,Possession of weapons,60
+2023-01-bedfordshire-street,Violence and sexual offences,1550
+2023-01-bedfordshire-street,Anti-social behaviour,678
+2023-01-bedfordshire-street,Vehicle crime,395
+2023-01-bedfordshire-street,Other theft,374
+2023-01-bedfordshire-street,Public order,309
+2023-01-bedfordshire-street,Criminal damage and arson,305
+2023-01-bedfordshire-street,Burglary,235
+2023-01-bedfordshire-street,Shoplifting,202
+2023-01-bedfordshire-street,Drugs,158
+2023-01-bedfordshire-street,Other crime,92
+2023-01-bedfordshire-street,Bicycle theft,52
+2023-01-bedfordshire-street,Possession of weapons,49
+2023-01-bedfordshire-street,Theft from the person,44
+2023-01-bedfordshire-street,Robbery,38
+2023-01-btp-street,Violence and sexual offences,999
+2023-01-btp-street,Theft from the person,831
+2023-01-btp-street,Public order,797
+2023-01-btp-street,Other theft,713
+2023-01-btp-street,Criminal damage and arson,386
+2023-01-btp-street,Bicycle theft,225
+2023-01-btp-street,Drugs,218
+2023-01-btp-street,Shoplifting,168
+2023-01-btp-street,Robbery,154
+2023-01-btp-street,Vehicle crime,122
+2023-01-btp-street,Other crime,56
+2023-01-btp-street,Possession of weapons,49
+2023-01-btp-street,Burglary,19
+2023-01-cambridgeshire-street,Violence and sexual offences,2399
+2023-01-cambridgeshire-street,Anti-social behaviour,771
+2023-01-cambridgeshire-street,Public order,600
+2023-01-cambridgeshire-street,Other theft,573
+2023-01-cambridgeshire-street,Criminal damage and arson,563
+2023-01-cambridgeshire-street,Vehicle crime,490
+2023-01-cambridgeshire-street,Shoplifting,468
+2023-01-cambridgeshire-street,Burglary,356
+2023-01-cambridgeshire-street,Other crime,201
+2023-01-cambridgeshire-street,Bicycle theft,172
+2023-01-cambridgeshire-street,Drugs,139
+2023-01-cambridgeshire-street,Theft from the person,75
+2023-01-cambridgeshire-street,Robbery,63
+2023-01-cambridgeshire-street,Possession of weapons,60
+2023-01-cheshire-street,Violence and sexual offences,2864
+2023-01-cheshire-street,Anti-social behaviour,866
+2023-01-cheshire-street,Public order,761
+2023-01-cheshire-street,Criminal damage and arson,519
+2023-01-cheshire-street,Other theft,409
+2023-01-cheshire-street,Shoplifting,388
+2023-01-cheshire-street,Burglary,252
+2023-01-cheshire-street,Vehicle crime,210
+2023-01-cheshire-street,Drugs,203
+2023-01-cheshire-street,Other crime,130
+2023-01-cheshire-street,Bicycle theft,76
+2023-01-cheshire-street,Possession of weapons,52
+2023-01-cheshire-street,Robbery,28
+2023-01-cheshire-street,Theft from the person,23
+2023-01-city-of-london-street,Other theft,159
+2023-01-city-of-london-street,Violence and sexual offences,110
+2023-01-city-of-london-street,Theft from the person,94
+2023-01-city-of-london-street,Shoplifting,64
+2023-01-city-of-london-street,Drugs,63
+2023-01-city-of-london-street,Public order,60
+2023-01-city-of-london-street,Anti-social behaviour,56
+2023-01-city-of-london-street,Vehicle crime,25
+2023-01-city-of-london-street,Burglary,22
+2023-01-city-of-london-street,Criminal damage and arson,22
+2023-01-city-of-london-street,Other crime,17
+2023-01-city-of-london-street,Robbery,13
+2023-01-city-of-london-street,Possession of weapons,8
+2023-01-city-of-london-street,Bicycle theft,6
+2023-01-cleveland-street,Violence and sexual offences,2749
+2023-01-cleveland-street,Anti-social behaviour,1161
+2023-01-cleveland-street,Criminal damage and arson,770
+2023-01-cleveland-street,Public order,635
+2023-01-cleveland-street,Shoplifting,592
+2023-01-cleveland-street,Burglary,416
+2023-01-cleveland-street,Other theft,383
+2023-01-cleveland-street,Vehicle crime,359
+2023-01-cleveland-street,Drugs,217
+2023-01-cleveland-street,Other crime,163
+2023-01-cleveland-street,Robbery,71
+2023-01-cleveland-street,Possession of weapons,64
+2023-01-cleveland-street,Theft from the person,43
+2023-01-cleveland-street,Bicycle theft,40
+2023-01-cumbria-street,Violence and sexual offences,1436
+2023-01-cumbria-street,Criminal damage and arson,373
+2023-01-cumbria-street,Anti-social behaviour,351
+2023-01-cumbria-street,Public order,332
+2023-01-cumbria-street,Other theft,220
+2023-01-cumbria-street,Shoplifting,162
+2023-01-cumbria-street,Burglary,117
+2023-01-cumbria-street,Drugs,109
+2023-01-cumbria-street,Vehicle crime,102
+2023-01-cumbria-street,Other crime,75
+2023-01-cumbria-street,Possession of weapons,36
+2023-01-cumbria-street,Robbery,15
+2023-01-cumbria-street,Bicycle theft,13
+2023-01-cumbria-street,Theft from the person,6
+2023-01-derbyshire-street,Violence and sexual offences,3563
+2023-01-derbyshire-street,Anti-social behaviour,1280
+2023-01-derbyshire-street,Public order,845
+2023-01-derbyshire-street,Criminal damage and arson,691
+2023-01-derbyshire-street,Other theft,625
+2023-01-derbyshire-street,Shoplifting,463
+2023-01-derbyshire-street,Vehicle crime,417
+2023-01-derbyshire-street,Burglary,408
+2023-01-derbyshire-street,Drugs,203
+2023-01-derbyshire-street,Other crime,165
+2023-01-derbyshire-street,Possession of weapons,70
+2023-01-derbyshire-street,Robbery,62
+2023-01-derbyshire-street,Theft from the person,54
+2023-01-derbyshire-street,Bicycle theft,38
+2023-01-dorset-street,Violence and sexual offences,1710
+2023-01-dorset-street,Anti-social behaviour,966
+2023-01-dorset-street,Criminal damage and arson,424
+2023-01-dorset-street,Vehicle crime,361
+2023-01-dorset-street,Other theft,339
+2023-01-dorset-street,Public order,292
+2023-01-dorset-street,Shoplifting,287
+2023-01-dorset-street,Burglary,240
+2023-01-dorset-street,Drugs,75
+2023-01-dorset-street,Bicycle theft,37
+2023-01-dorset-street,Other crime,36
+2023-01-dorset-street,Robbery,31
+2023-01-dorset-street,Possession of weapons,29
+2023-01-dorset-street,Theft from the person,24
+2023-01-durham-street,Violence and sexual offences,2486
+2023-01-durham-street,Criminal damage and arson,832
+2023-01-durham-street,Public order,683
+2023-01-durham-street,Anti-social behaviour,553
+2023-01-durham-street,Shoplifting,421
+2023-01-durham-street,Other theft,313
+2023-01-durham-street,Burglary,288
+2023-01-durham-street,Vehicle crime,277
+2023-01-durham-street,Other crime,176
+2023-01-durham-street,Drugs,118
+2023-01-durham-street,Possession of weapons,32
+2023-01-durham-street,Bicycle theft,29
+2023-01-durham-street,Theft from the person,17
+2023-01-durham-street,Robbery,15
+2023-01-dyfed-powys-street,Violence and sexual offences,1848
+2023-01-dyfed-powys-street,Anti-social behaviour,429
+2023-01-dyfed-powys-street,Public order,406
+2023-01-dyfed-powys-street,Criminal damage and arson,295
+2023-01-dyfed-powys-street,Other theft,238
+2023-01-dyfed-powys-street,Drugs,187
+2023-01-dyfed-powys-street,Shoplifting,142
+2023-01-dyfed-powys-street,Burglary,99
+2023-01-dyfed-powys-street,Other crime,75
+2023-01-dyfed-powys-street,Vehicle crime,45
+2023-01-dyfed-powys-street,Possession of weapons,23
+2023-01-dyfed-powys-street,Theft from the person,9
+2023-01-dyfed-powys-street,Robbery,6
+2023-01-dyfed-powys-street,Bicycle theft,5
+2023-01-essex-street,Violence and sexual offences,5562
+2023-01-essex-street,Vehicle crime,1396
+2023-01-essex-street,Criminal damage and arson,1102
+2023-01-essex-street,Public order,1067
+2023-01-essex-street,Other theft,1052
+2023-01-essex-street,Shoplifting,998
+2023-01-essex-street,Anti-social behaviour,896
+2023-01-essex-street,Burglary,610
+2023-01-essex-street,Drugs,466
+2023-01-essex-street,Other crime,307
+2023-01-essex-street,Possession of weapons,150
+2023-01-essex-street,Robbery,119
+2023-01-essex-street,Bicycle theft,111
+2023-01-essex-street,Theft from the person,99
+2023-01-gloucestershire-street,Violence and sexual offences,2101
+2023-01-gloucestershire-street,Anti-social behaviour,814
+2023-01-gloucestershire-street,Public order,410
+2023-01-gloucestershire-street,Criminal damage and arson,372
+2023-01-gloucestershire-street,Other theft,348
+2023-01-gloucestershire-street,Shoplifting,280
+2023-01-gloucestershire-street,Burglary,277
+2023-01-gloucestershire-street,Vehicle crime,179
+2023-01-gloucestershire-street,Other crime,164
+2023-01-gloucestershire-street,Drugs,92
+2023-01-gloucestershire-street,Bicycle theft,50
+2023-01-gloucestershire-street,Robbery,32
+2023-01-gloucestershire-street,Theft from the person,24
+2023-01-gloucestershire-street,Possession of weapons,17
+2023-01-gwent-street,Violence and sexual offences,1959
+2023-01-gwent-street,Anti-social behaviour,783
+2023-01-gwent-street,Public order,649
+2023-01-gwent-street,Shoplifting,318
+2023-01-gwent-street,Other theft,297
+2023-01-gwent-street,Vehicle crime,172
+2023-01-gwent-street,Burglary,148
+2023-01-gwent-street,Other crime,137
+2023-01-gwent-street,Drugs,134
+2023-01-gwent-street,Criminal damage and arson,41
+2023-01-gwent-street,Robbery,31
+2023-01-gwent-street,Possession of weapons,24
+2023-01-gwent-street,Theft from the person,22
+2023-01-gwent-street,Bicycle theft,18
+2023-01-hampshire-street,Violence and sexual offences,6132
+2023-01-hampshire-street,Public order,1483
+2023-01-hampshire-street,Anti-social behaviour,1161
+2023-01-hampshire-street,Criminal damage and arson,1116
+2023-01-hampshire-street,Vehicle crime,1031
+2023-01-hampshire-street,Shoplifting,970
+2023-01-hampshire-street,Other theft,917
+2023-01-hampshire-street,Burglary,654
+2023-01-hampshire-street,Drugs,421
+2023-01-hampshire-street,Other crime,248
+2023-01-hampshire-street,Bicycle theft,125
+2023-01-hampshire-street,Possession of weapons,122
+2023-01-hampshire-street,Robbery,105
+2023-01-hampshire-street,Theft from the person,93
+2023-01-hertfordshire-street,Violence and sexual offences,2402
+2023-01-hertfordshire-street,Anti-social behaviour,1776
+2023-01-hertfordshire-street,Vehicle crime,722
+2023-01-hertfordshire-street,Other theft,692
+2023-01-hertfordshire-street,Shoplifting,676
+2023-01-hertfordshire-street,Criminal damage and arson,550
+2023-01-hertfordshire-street,Burglary,395
+2023-01-hertfordshire-street,Public order,377
+2023-01-hertfordshire-street,Drugs,187
+2023-01-hertfordshire-street,Other crime,122
+2023-01-hertfordshire-street,Theft from the person,92
+2023-01-hertfordshire-street,Bicycle theft,67
+2023-01-hertfordshire-street,Possession of weapons,62
+2023-01-hertfordshire-street,Robbery,48
+2023-01-humberside-street,Violence and sexual offences,3373
+2023-01-humberside-street,Public order,987
+2023-01-humberside-street,Criminal damage and arson,978
+2023-01-humberside-street,Shoplifting,696
+2023-01-humberside-street,Anti-social behaviour,686
+2023-01-humberside-street,Other theft,550
+2023-01-humberside-street,Burglary,443
+2023-01-humberside-street,Vehicle crime,295
+2023-01-humberside-street,Other crime,209
+2023-01-humberside-street,Bicycle theft,117
+2023-01-humberside-street,Drugs,90
+2023-01-humberside-street,Robbery,69
+2023-01-humberside-street,Possession of weapons,65
+2023-01-humberside-street,Theft from the person,25
+2023-01-kent-street,Violence and sexual offences,5786
+2023-01-kent-street,Anti-social behaviour,1801
+2023-01-kent-street,Criminal damage and arson,1468
+2023-01-kent-street,Other theft,1081
+2023-01-kent-street,Shoplifting,1064
+2023-01-kent-street,Vehicle crime,857
+2023-01-kent-street,Public order,800
+2023-01-kent-street,Burglary,504
+2023-01-kent-street,Other crime,476
+2023-01-kent-street,Drugs,377
+2023-01-kent-street,Possession of weapons,125
+2023-01-kent-street,Robbery,92
+2023-01-kent-street,Theft from the person,79
+2023-01-kent-street,Bicycle theft,63
+2023-01-lancashire-street,Violence and sexual offences,4826
+2023-01-lancashire-street,Anti-social behaviour,3624
+2023-01-lancashire-street,Criminal damage and arson,1116
+2023-01-lancashire-street,Other theft,883
+2023-01-lancashire-street,Shoplifting,791
+2023-01-lancashire-street,Vehicle crime,667
+2023-01-lancashire-street,Public order,602
+2023-01-lancashire-street,Burglary,600
+2023-01-lancashire-street,Other crime,246
+2023-01-lancashire-street,Drugs,220
+2023-01-lancashire-street,Possession of weapons,157
+2023-01-lancashire-street,Robbery,78
+2023-01-lancashire-street,Bicycle theft,63
+2023-01-lancashire-street,Theft from the person,50
+2023-01-leicestershire-street,Violence and sexual offences,3576
+2023-01-leicestershire-street,Public order,887
+2023-01-leicestershire-street,Criminal damage and arson,797
+2023-01-leicestershire-street,Other theft,786
+2023-01-leicestershire-street,Vehicle crime,569
+2023-01-leicestershire-street,Anti-social behaviour,471
+2023-01-leicestershire-street,Burglary,443
+2023-01-leicestershire-street,Shoplifting,343
+2023-01-leicestershire-street,Drugs,299
+2023-01-leicestershire-street,Other crime,214
+2023-01-leicestershire-street,Bicycle theft,114
+2023-01-leicestershire-street,Possession of weapons,73
+2023-01-leicestershire-street,Robbery,54
+2023-01-leicestershire-street,Theft from the person,50
+2023-01-lincolnshire-street,Violence and sexual offences,1968
+2023-01-lincolnshire-street,Anti-social behaviour,764
+2023-01-lincolnshire-street,Criminal damage and arson,467
+2023-01-lincolnshire-street,Shoplifting,458
+2023-01-lincolnshire-street,Other theft,383
+2023-01-lincolnshire-street,Public order,330
+2023-01-lincolnshire-street,Burglary,294
+2023-01-lincolnshire-street,Vehicle crime,201
+2023-01-lincolnshire-street,Drugs,146
+2023-01-lincolnshire-street,Other crime,136
+2023-01-lincolnshire-street,Possession of weapons,59
+2023-01-lincolnshire-street,Bicycle theft,48
+2023-01-lincolnshire-street,Robbery,25
+2023-01-lincolnshire-street,Theft from the person,11
+2023-01-merseyside-street,Violence and sexual offences,5679
+2023-01-merseyside-street,Public order,1793
+2023-01-merseyside-street,Criminal damage and arson,1179
+2023-01-merseyside-street,Drugs,1083
+2023-01-merseyside-street,Anti-social behaviour,928
+2023-01-merseyside-street,Other theft,799
+2023-01-merseyside-street,Vehicle crime,677
+2023-01-merseyside-street,Shoplifting,629
+2023-01-merseyside-street,Burglary,615
+2023-01-merseyside-street,Other crime,310
+2023-01-merseyside-street,Theft from the person,153
+2023-01-merseyside-street,Robbery,109
+2023-01-merseyside-street,Possession of weapons,98
+2023-01-merseyside-street,Bicycle theft,95
+2023-01-metropolitan-street,Violence and sexual offences,20178
+2023-01-metropolitan-street,Anti-social behaviour,14822
+2023-01-metropolitan-street,Other theft,10851
+2023-01-metropolitan-street,Vehicle crime,9350
+2023-01-metropolitan-street,Theft from the person,5570
+2023-01-metropolitan-street,Burglary,5143
+2023-01-metropolitan-street,Criminal damage and arson,4362
+2023-01-metropolitan-street,Public order,4256
+2023-01-metropolitan-street,Shoplifting,4063
+2023-01-metropolitan-street,Drugs,3596
+2023-01-metropolitan-street,Robbery,2658
+2023-01-metropolitan-street,Bicycle theft,987
+2023-01-metropolitan-street,Other crime,934
+2023-01-metropolitan-street,Possession of weapons,441
+2023-01-norfolk-street,Violence and sexual offences,2642
+2023-01-norfolk-street,Anti-social behaviour,668
+2023-01-norfolk-street,Criminal damage and arson,531
+2023-01-norfolk-street,Public order,494
+2023-01-norfolk-street,Other theft,393
+2023-01-norfolk-street,Shoplifting,303
+2023-01-norfolk-street,Burglary,182
+2023-01-norfolk-street,Vehicle crime,167
+2023-01-norfolk-street,Other crime,156
+2023-01-norfolk-street,Drugs,124
+2023-01-norfolk-street,Possession of weapons,63
+2023-01-norfolk-street,Bicycle theft,52
+2023-01-norfolk-street,Robbery,31
+2023-01-norfolk-street,Theft from the person,31
+2023-01-north-wales-street,Violence and sexual offences,2379
+2023-01-north-wales-street,Anti-social behaviour,1050
+2023-01-north-wales-street,Criminal damage and arson,550
+2023-01-north-wales-street,Public order,491
+2023-01-north-wales-street,Other theft,339
+2023-01-north-wales-street,Shoplifting,320
+2023-01-north-wales-street,Burglary,159
+2023-01-north-wales-street,Drugs,109
+2023-01-north-wales-street,Vehicle crime,95
+2023-01-north-wales-street,Other crime,77
+2023-01-north-wales-street,Possession of weapons,33
+2023-01-north-wales-street,Bicycle theft,13
+2023-01-north-wales-street,Robbery,10
+2023-01-north-wales-street,Theft from the person,6
+2023-01-north-yorkshire-street,Violence and sexual offences,1916
+2023-01-north-yorkshire-street,Anti-social behaviour,1076
+2023-01-north-yorkshire-street,Criminal damage and arson,413
+2023-01-north-yorkshire-street,Other theft,376
+2023-01-north-yorkshire-street,Public order,363
+2023-01-north-yorkshire-street,Shoplifting,344
+2023-01-north-yorkshire-street,Burglary,219
+2023-01-north-yorkshire-street,Vehicle crime,168
+2023-01-north-yorkshire-street,Drugs,124
+2023-01-north-yorkshire-street,Other crime,89
+2023-01-north-yorkshire-street,Bicycle theft,80
+2023-01-north-yorkshire-street,Possession of weapons,54
+2023-01-north-yorkshire-street,Theft from the person,22
+2023-01-north-yorkshire-street,Robbery,15
+2023-01-northamptonshire-street,Violence and sexual offences,2482
+2023-01-northamptonshire-street,Anti-social behaviour,721
+2023-01-northamptonshire-street,Criminal damage and arson,482
+2023-01-northamptonshire-street,Other theft,386
+2023-01-northamptonshire-street,Shoplifting,380
+2023-01-northamptonshire-street,Vehicle crime,356
+2023-01-northamptonshire-street,Public order,325
+2023-01-northamptonshire-street,Burglary,273
+2023-01-northamptonshire-street,Other crime,161
+2023-01-northamptonshire-street,Drugs,151
+2023-01-northamptonshire-street,Robbery,76
+2023-01-northamptonshire-street,Possession of weapons,70
+2023-01-northamptonshire-street,Bicycle theft,37
+2023-01-northamptonshire-street,Theft from the person,22
+2023-01-northern-ireland-street,Violence and sexual offences,4169
+2023-01-northern-ireland-street,Anti-social behaviour,3323
+2023-01-northern-ireland-street,Criminal damage and arson,1199
+2023-01-northern-ireland-street,Other theft,811
+2023-01-northern-ireland-street,Drugs,728
+2023-01-northern-ireland-street,Shoplifting,605
+2023-01-northern-ireland-street,Burglary,307
+2023-01-northern-ireland-street,Other crime,276
+2023-01-northern-ireland-street,Vehicle crime,241
+2023-01-northern-ireland-street,Possession of weapons,98
+2023-01-northern-ireland-street,Public order,72
+2023-01-northern-ireland-street,Robbery,62
+2023-01-northern-ireland-street,Bicycle theft,56
+2023-01-northern-ireland-street,Theft from the person,23
+2023-01-northumbria-street,Violence and sexual offences,4797
+2023-01-northumbria-street,Anti-social behaviour,2658
+2023-01-northumbria-street,Criminal damage and arson,1471
+2023-01-northumbria-street,Other theft,1115
+2023-01-northumbria-street,Public order,1066
+2023-01-northumbria-street,Vehicle crime,1005
+2023-01-northumbria-street,Shoplifting,986
+2023-01-northumbria-street,Burglary,486
+2023-01-northumbria-street,Other crime,300
+2023-01-northumbria-street,Drugs,259
+2023-01-northumbria-street,Possession of weapons,96
+2023-01-northumbria-street,Theft from the person,96
+2023-01-northumbria-street,Bicycle theft,91
+2023-01-northumbria-street,Robbery,87
+2023-01-nottinghamshire-street,Violence and sexual offences,3296
+2023-01-nottinghamshire-street,Shoplifting,1130
+2023-01-nottinghamshire-street,Criminal damage and arson,886
+2023-01-nottinghamshire-street,Public order,695
+2023-01-nottinghamshire-street,Other theft,662
+2023-01-nottinghamshire-street,Vehicle crime,581
+2023-01-nottinghamshire-street,Burglary,493
+2023-01-nottinghamshire-street,Drugs,321
+2023-01-nottinghamshire-street,Other crime,253
+2023-01-nottinghamshire-street,Anti-social behaviour,200
+2023-01-nottinghamshire-street,Possession of weapons,117
+2023-01-nottinghamshire-street,Bicycle theft,110
+2023-01-nottinghamshire-street,Robbery,98
+2023-01-nottinghamshire-street,Theft from the person,72
+2023-01-south-wales-street,Violence and sexual offences,3569
+2023-01-south-wales-street,Anti-social behaviour,1543
+2023-01-south-wales-street,Public order,992
+2023-01-south-wales-street,Shoplifting,888
+2023-01-south-wales-street,Criminal damage and arson,884
+2023-01-south-wales-street,Other theft,642
+2023-01-south-wales-street,Vehicle crime,605
+2023-01-south-wales-street,Burglary,344
+2023-01-south-wales-street,Drugs,258
+2023-01-south-wales-street,Other crime,204
+2023-01-south-wales-street,Bicycle theft,96
+2023-01-south-wales-street,Theft from the person,70
+2023-01-south-wales-street,Possession of weapons,61
+2023-01-south-wales-street,Robbery,31
+2023-01-south-yorkshire-street,Violence and sexual offences,5116
+2023-01-south-yorkshire-street,Anti-social behaviour,1731
+2023-01-south-yorkshire-street,Criminal damage and arson,1409
+2023-01-south-yorkshire-street,Public order,1171
+2023-01-south-yorkshire-street,Vehicle crime,1105
+2023-01-south-yorkshire-street,Burglary,1002
+2023-01-south-yorkshire-street,Shoplifting,983
+2023-01-south-yorkshire-street,Other theft,966
+2023-01-south-yorkshire-street,Other crime,475
+2023-01-south-yorkshire-street,Drugs,361
+2023-01-south-yorkshire-street,Robbery,156
+2023-01-south-yorkshire-street,Possession of weapons,147
+2023-01-south-yorkshire-street,Theft from the person,108
+2023-01-south-yorkshire-street,Bicycle theft,40
+2023-01-staffordshire-street,Violence and sexual offences,3972
+2023-01-staffordshire-street,Anti-social behaviour,952
+2023-01-staffordshire-street,Public order,757
+2023-01-staffordshire-street,Criminal damage and arson,706
+2023-01-staffordshire-street,Other theft,587
+2023-01-staffordshire-street,Vehicle crime,533
+2023-01-staffordshire-street,Shoplifting,483
+2023-01-staffordshire-street,Burglary,371
+2023-01-staffordshire-street,Other crime,221
+2023-01-staffordshire-street,Drugs,167
+2023-01-staffordshire-street,Possession of weapons,92
+2023-01-staffordshire-street,Bicycle theft,75
+2023-01-staffordshire-street,Robbery,60
+2023-01-staffordshire-street,Theft from the person,32
+2023-01-suffolk-street,Violence and sexual offences,1899
+2023-01-suffolk-street,Anti-social behaviour,489
+2023-01-suffolk-street,Criminal damage and arson,361
+2023-01-suffolk-street,Public order,337
+2023-01-suffolk-street,Shoplifting,290
+2023-01-suffolk-street,Other theft,271
+2023-01-suffolk-street,Vehicle crime,208
+2023-01-suffolk-street,Burglary,173
+2023-01-suffolk-street,Drugs,126
+2023-01-suffolk-street,Other crime,102
+2023-01-suffolk-street,Possession of weapons,50
+2023-01-suffolk-street,Theft from the person,31
+2023-01-suffolk-street,Bicycle theft,24
+2023-01-suffolk-street,Robbery,18
+2023-01-surrey-street,Violence and sexual offences,2341
+2023-01-surrey-street,Anti-social behaviour,983
+2023-01-surrey-street,Public order,641
+2023-01-surrey-street,Criminal damage and arson,613
+2023-01-surrey-street,Other theft,591
+2023-01-surrey-street,Vehicle crime,571
+2023-01-surrey-street,Burglary,350
+2023-01-surrey-street,Shoplifting,340
+2023-01-surrey-street,Drugs,163
+2023-01-surrey-street,Other crime,156
+2023-01-surrey-street,Bicycle theft,69
+2023-01-surrey-street,Possession of weapons,51
+2023-01-surrey-street,Theft from the person,38
+2023-01-surrey-street,Robbery,35
+2023-01-sussex-street,Violence and sexual offences,4350
+2023-01-sussex-street,Anti-social behaviour,1192
+2023-01-sussex-street,Shoplifting,1185
+2023-01-sussex-street,Criminal damage and arson,1136
+2023-01-sussex-street,Public order,1009
+2023-01-sussex-street,Other theft,861
+2023-01-sussex-street,Vehicle crime,598
+2023-01-sussex-street,Burglary,515
+2023-01-sussex-street,Drugs,300
+2023-01-sussex-street,Other crime,276
+2023-01-sussex-street,Possession of weapons,190
+2023-01-sussex-street,Robbery,108
+2023-01-sussex-street,Bicycle theft,106
+2023-01-sussex-street,Theft from the person,73
+2023-01-thames-valley-street,Violence and sexual offences,6689
+2023-01-thames-valley-street,Vehicle crime,1479
+2023-01-thames-valley-street,Other theft,1475
+2023-01-thames-valley-street,Public order,1385
+2023-01-thames-valley-street,Criminal damage and arson,1322
+2023-01-thames-valley-street,Anti-social behaviour,1075
+2023-01-thames-valley-street,Shoplifting,1051
+2023-01-thames-valley-street,Burglary,824
+2023-01-thames-valley-street,Drugs,420
+2023-01-thames-valley-street,Bicycle theft,332
+2023-01-thames-valley-street,Other crime,316
+2023-01-thames-valley-street,Theft from the person,293
+2023-01-thames-valley-street,Possession of weapons,128
+2023-01-thames-valley-street,Robbery,104
+2023-01-warwickshire-street,Violence and sexual offences,1388
+2023-01-warwickshire-street,Anti-social behaviour,610
+2023-01-warwickshire-street,Vehicle crime,496
+2023-01-warwickshire-street,Other theft,304
+2023-01-warwickshire-street,Criminal damage and arson,289
+2023-01-warwickshire-street,Public order,255
+2023-01-warwickshire-street,Burglary,241
+2023-01-warwickshire-street,Shoplifting,221
+2023-01-warwickshire-street,Other crime,111
+2023-01-warwickshire-street,Drugs,100
+2023-01-warwickshire-street,Possession of weapons,44
+2023-01-warwickshire-street,Robbery,31
+2023-01-warwickshire-street,Bicycle theft,30
+2023-01-warwickshire-street,Theft from the person,21
+2023-01-west-mercia-street,Violence and sexual offences,3627
+2023-01-west-mercia-street,Anti-social behaviour,1575
+2023-01-west-mercia-street,Public order,755
+2023-01-west-mercia-street,Shoplifting,744
+2023-01-west-mercia-street,Criminal damage and arson,721
+2023-01-west-mercia-street,Other theft,679
+2023-01-west-mercia-street,Burglary,441
+2023-01-west-mercia-street,Vehicle crime,361
+2023-01-west-mercia-street,Other crime,197
+2023-01-west-mercia-street,Drugs,168
+2023-01-west-mercia-street,Possession of weapons,93
+2023-01-west-mercia-street,Bicycle theft,63
+2023-01-west-mercia-street,Robbery,45
+2023-01-west-mercia-street,Theft from the person,41
+2023-01-west-midlands-street,Violence and sexual offences,13025
+2023-01-west-midlands-street,Vehicle crime,3320
+2023-01-west-midlands-street,Public order,2323
+2023-01-west-midlands-street,Criminal damage and arson,2277
+2023-01-west-midlands-street,Other theft,2093
+2023-01-west-midlands-street,Burglary,1890
+2023-01-west-midlands-street,Shoplifting,1712
+2023-01-west-midlands-street,Anti-social behaviour,1177
+2023-01-west-midlands-street,Robbery,781
+2023-01-west-midlands-street,Drugs,727
+2023-01-west-midlands-street,Other crime,571
+2023-01-west-midlands-street,Possession of weapons,570
+2023-01-west-midlands-street,Theft from the person,345
+2023-01-west-midlands-street,Bicycle theft,126
+2023-01-west-yorkshire-street,Violence and sexual offences,12012
+2023-01-west-yorkshire-street,Public order,2829
+2023-01-west-yorkshire-street,Criminal damage and arson,2189
+2023-01-west-yorkshire-street,Other theft,1909
+2023-01-west-yorkshire-street,Shoplifting,1767
+2023-01-west-yorkshire-street,Anti-social behaviour,1522
+2023-01-west-yorkshire-street,Vehicle crime,1430
+2023-01-west-yorkshire-street,Burglary,1416
+2023-01-west-yorkshire-street,Other crime,788
+2023-01-west-yorkshire-street,Drugs,730
+2023-01-west-yorkshire-street,Robbery,273
+2023-01-west-yorkshire-street,Theft from the person,226
+2023-01-west-yorkshire-street,Possession of weapons,189
+2023-01-west-yorkshire-street,Bicycle theft,162
+2023-01-wiltshire-street,Violence and sexual offences,1518
+2023-01-wiltshire-street,Anti-social behaviour,758
+2023-01-wiltshire-street,Criminal damage and arson,388
+2023-01-wiltshire-street,Shoplifting,328
+2023-01-wiltshire-street,Public order,293
+2023-01-wiltshire-street,Other theft,227
+2023-01-wiltshire-street,Vehicle crime,227
+2023-01-wiltshire-street,Burglary,170
+2023-01-wiltshire-street,Other crime,95
+2023-01-wiltshire-street,Drugs,88
+2023-01-wiltshire-street,Bicycle theft,41
+2023-01-wiltshire-street,Possession of weapons,28
+2023-01-wiltshire-street,Theft from the person,26
+2023-01-wiltshire-street,Robbery,23
